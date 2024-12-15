@@ -1,0 +1,7 @@
+python-telegram-bot==20.5
+tensorflow-cpu
+pandas
+numpy
+matplotlib
+requests
+scikit-learn
